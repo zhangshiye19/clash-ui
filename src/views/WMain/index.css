@@ -1,0 +1,11 @@
+.site-layout-background {
+    background: #fff;
+}
+
+[data-theme='dark'] .site-layout-background {
+    background: #141414;
+}
+
+.site-layout-dark-background {
+    background: #141414
+}
